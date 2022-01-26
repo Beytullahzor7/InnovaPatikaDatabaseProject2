@@ -51,8 +51,4 @@ public class DatabaseConnection extends DatabaseInformation{
         this.connection = connection;
         return this;
     }
-
-    public static void main(String[] args) {
-        //DatabaseConnection databaseConnection = new DatabaseConnection();
-    }
 }
